@@ -16,3 +16,4 @@
 
 6 ice
 5 flm
+then shrine

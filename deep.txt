@@ -1,0 +1,18 @@
+0 str
+100 ftd
+25 agl
+25 int
+100 wll
+1 chr
+
+6 health
+0 erudition
+0 proficiency
+6 songchant
+
+0 lht
+0 med
+0 hvy
+
+6 ice
+5 flm
